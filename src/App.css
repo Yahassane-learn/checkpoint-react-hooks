@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Header Styles */
+header {
+  background-color: #222222;
+  color: aliceblue;
+}
+
+header .inner-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+.btnAdd{
+  margin-top: 12px;
+  color: darkkhaki;
+}
+.Movie{
+  display: flex;
+  padding: 10px;
+}
+.Movie img {
+  max-width: 100px;
+}
+.MovieURL {
+  color : #222222 ;
+}
+.btnadd{
+  width: 150x;
+  height: 30px;
+  margin-block-start: 60px;
+
+}
+.url{
+  color: #222222;
+  margin-top: -5px;
+}
+.wlmv{
+  text-align: center;
+  padding: 15px ;
+}
+.buttonAdd{
+  text-align: center;
+}
